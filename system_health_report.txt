@@ -1,0 +1,12 @@
+Disk Usage: 0.7%
+Memory Usage: 45.0%
+CPU Usage: 1.2%
+Per-CPU Usage: CPU 0: 9.1%, CPU 1: 0.0%, CPU 2: 6.0%, CPU 3: 0.0%, CPU 4: 2.0%, CPU 5: 0.0%, CPU 6: 1.0%, CPU 7: 0.0%, CPU 8: 3.0%, CPU 9: 0.0%, CPU 10: 5.0%, CPU 11: 0.0%, CPU 12: 0.0%, CPU 13: 0.0%, CPU 14: 13.0%, CPU 15: 0.0%
+Swap Memory - Total: 1.00 GB, Used: 0.08 GB, Free: 0.92 GB, Usage: 7.7%
+Disk I/O - Read: 122752528384 bytes, Write: 248024219648 bytes
+Network I/O - Sent: 2874778071 bytes, Received: 51674541721 bytes
+Active Network Connections: 177
+Total Memory: 32.00 GB
+Available Memory: 17.60 GB
+Used Memory: 14.19 GB
+Memory Usage: 45.0%
