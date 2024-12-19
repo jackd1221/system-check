@@ -7,13 +7,6 @@ def check_disk_usage():
     except Exception as e:
         return f"Error checking disk usage: {e}"
 
-def check_memory_usage():
-    try:
-        memory_info = psutil.virtual_memory()
-        return f"Memory Usage: {memory_info.percent}%"
-    except Exception as e:
-        return f"Error checking memory usage: {e}"
-
 def check_cpu_usage():
     try:
         cpu_usage = psutil.cpu_percent(interval=1)
@@ -73,7 +66,6 @@ def check_detailed_memory_info():
 def main():
     report = [
         check_disk_usage(),
-        check_memory_usage(),
         check_cpu_usage(),
         check_per_cpu_usage(),
         check_swap_memory_usage(),

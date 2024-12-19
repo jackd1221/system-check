@@ -2,8 +2,6 @@ Python script that checks various system properties
 
 -Disk Usage
 
--Memory Usage
-
 -CPU Usage
 
 -Per CPU Usage
@@ -21,5 +19,7 @@ Python script that checks various system properties
 -Available Memory
 
 -Used Memory
+
+-Memory Usage
 
 Run using "sudo python3 syscheck.py"
